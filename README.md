@@ -12,6 +12,7 @@ Hur går quiz-momentet till?
 * Det är frivilligt om spelet är över när en deltagare gissar rätt eller om man vill spara ner totala poäng.
 * Om svaret är fel går turen över till nästa delatagare.
 
+
 **User stories:**
 
 Det är lätt att lägga för mycket fokus på vilken funktionalitet som ska implementeras, och inte tänka på eller kommunicera för vem funktionaliteten inkluderas eller vilket värde funktionaliteten tillför. Detta är ett problem som **user stories** enkelt löser.
@@ -22,6 +23,7 @@ En user story är ett kortfattat sätt att beskriva funktionalitet som system sk
 **Som *ekonomiansvarig* vill jag kunna skriva ut en *momssammanställning* varje månad så att jag effektivt kan uppfylla *rapporteringskravet* från Skatteverket.**
 
 Fundera i er grupp vilka funktioner ni skulle vilja att appen har. Gör detta som **User stories**. Exempel på det är ska man kunna registrera sig och logga in? Ska appen vara responsiv? Ska det vara tidspress på quizet?
+
 
 ### Checklista för projektet
 * Arbeta som att ni ska planera er första 2 veckors sprint. Vad är rimligt att hinna med? Försök att tidsuppskatta varje moment. Fundera kring vad ni skulle vilja kunna visa kunden efter de två första veckorna.
